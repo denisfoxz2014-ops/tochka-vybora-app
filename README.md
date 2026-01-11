@@ -1,1 +1,1 @@
-# tochka-vybora-app
+# tochka-vybora
